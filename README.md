@@ -5,6 +5,7 @@
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
+[Agricola Famosa LTDA](http://www.agricolafamosa.com.br/) | Mossoró, RN | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG | Flutter |
